@@ -1,5 +1,5 @@
 # SOM-self-Organizing-map-
-Projets académiques 
+Projet académique 
 
 -Récuperation et normalisation des données de iris-dataset.
 
